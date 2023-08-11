@@ -13,4 +13,4 @@ My name is Zon Zahidan, and I am an urban planning graduate with a passion for d
 
 ### SQL
 
-1. [**Indonesian Movies from IMDB**](SQL using Python (Indonesian Movies IMDB).ipynb)
+1. [**Indonesian Movies from IMDB**](indonesian_movies_imdb.ipynb)
